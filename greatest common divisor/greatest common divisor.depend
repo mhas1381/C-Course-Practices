@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1755516416 source:d:\documents\c-course-practices\greatest common divisor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

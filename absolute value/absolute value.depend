@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1755519319 source:d:\documents\c-course-practices\absolute value\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
